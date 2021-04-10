@@ -1,0 +1,17 @@
+(?<=[Yy]outube(.*))([a-zA-Z]{3})([0-9]{3})
+(?<=[Bb]uy(.*))([0-9]+[mb])|(valuable)|(extra)|(ge price)
+(?<=[Ss]ell me(.*))[0-9]+[mb]
+(?<=[Ss]pending(.*))[0-9]+[mb]
+discord.gg(.*)
+(?<=antiscam(.*))(lure)
+(?<=[Jj]oin(.*))(swap(.*))
+(?<=[Ii] can pay(.*))[0-9]+[mb]
+(?<=[Ll]ooking to buy(.*))[0-9]+[mb]
+(?<=[Ss]how inv(.*))[0-9]+[mb]
+(?<=[Ss]how(.*))wealth
+\[[^\]]*\]
+\"[^\"]*\"
+(?<=[Dd]oubling(.*))(gp)|(gold)|(money)
+(?<=Vegas(.*))[0-9]
+(?<=Host(.*))[0-9]
+(?<=Infernal Cape(.*))@
